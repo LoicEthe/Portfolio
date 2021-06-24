@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+.presentation{
+    border: 1px black solid;
+    background-color: blueviolet;
+    width: 400px;
+    min-height: 100vh;
+    position: fixed;
+    z-index: 1000;
+}
+.text-pres{
+    border: 1px black solid;
+    background-color: red;
+    width: 600px;
+    min-height: 10vh;
+    position: fixed;
+    z-index: 1000;
+    bottom: 0;
+    margin-left: 10%;
+}
+.contact{
+    border: 1px black solid;
+    background-color: yellow;
+    width: 600px;
+    min-height: 10vh;
+    position: fixed;
+    z-index: 1000;
+    bottom: 0;
+    margin-left: 57.1%;
+}
+#logo{
+    border: 1px black solid;
+    background-color: teal;
+    min-height: 5vh;
+    margin-top: 30%;
+    width: 25%;
+}
